@@ -1,5 +1,5 @@
 
-package com.github.kerner1000.fx1000;
+package fx1000;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

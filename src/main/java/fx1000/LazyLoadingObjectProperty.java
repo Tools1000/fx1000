@@ -1,6 +1,6 @@
 
 
-package com.github.kerner1000.fx1000;
+package fx1000;
 
 import javafx.beans.property.SimpleObjectProperty;
 import javafx.concurrent.Task;
