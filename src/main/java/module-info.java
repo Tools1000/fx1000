@@ -1,7 +1,6 @@
 open module fx {
     requires org.slf4j;
     requires lombok;
-    requires spring.context;
     requires tools;
     requires javafx.base;
     requires javafx.graphics;
